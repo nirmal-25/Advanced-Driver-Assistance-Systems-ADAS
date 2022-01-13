@@ -7,3 +7,7 @@ This project is based on [TensorFlow's Object Detection API](https://github.com/
 
 
 ![Sample video detection output](https://user-images.githubusercontent.com/51696913/149266584-f9a6c755-2483-48fc-bf8c-2fc1deeddc84.gif)
+
+
+![joint_output_4](https://user-images.githubusercontent.com/51696913/149266841-8f476db5-7251-437e-a590-8d70eb7e7529.png)
+![joint_output_1](https://user-images.githubusercontent.com/51696913/149266845-d2bc8750-6a33-4ae6-8c76-6e094632d1b6.png)
