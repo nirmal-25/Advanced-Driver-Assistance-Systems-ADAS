@@ -8,5 +8,5 @@ This project is based on [TensorFlow's Object Detection API](https://github.com/
 
 </p>
 <p align="center">
-  <img width="500" src="https://user-images.githubusercontent.com/51696913/149267272-55b997f1-ac5c-430f-84a3-975e33e008c2.png" alt="Material Bread logo"> <img width="500" src="https://user-images.githubusercontent.com/51696913/149267277-22505d0f-4ce3-49ba-8c34-1fc4e804fcdd.png" alt="Material Bread logo">
+  <img width="250" src="https://user-images.githubusercontent.com/51696913/149267272-55b997f1-ac5c-430f-84a3-975e33e008c2.png" alt="Material Bread logo"> <img width="250" src="https://user-images.githubusercontent.com/51696913/149267277-22505d0f-4ce3-49ba-8c34-1fc4e804fcdd.png" alt="Material Bread logo">
 </p>
