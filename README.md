@@ -6,5 +6,4 @@ The repo consists of scripts that help visualize detections from models that are
 This project is based on [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). However, note that the project was originally implemented using TensorFlow 1.14 and not TensorFlow 2.x <br/><br/>
 
 
-![joint_output_4](https://user-images.githubusercontent.com/51696913/149267108-6740d5ca-585a-4c19-9ccb-36576642fe73.png)
-![joint_output_1](https://user-images.githubusercontent.com/51696913/149267111-fe4800db-3d61-4a70-8027-fce48f5b5590.png)
+![joint_output_1](https://user-images.githubusercontent.com/51696913/149267243-04e9d0ce-2851-4c72-892a-9f7c2336b0e2.png)![joint_output_1_432x428](https://user-images.githubusercontent.com/51696913/149267249-52e5a3a6-7045-46d8-b4e2-87f391c90dcd.png)
