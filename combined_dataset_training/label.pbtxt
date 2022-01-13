@@ -1,0 +1,285 @@
+item {
+  id: 1
+  name: 'pn'
+}
+
+item {
+  id: 2
+  name: 'pne'
+}
+
+item {
+  id: 3
+  name: 'i5'
+}
+
+item {
+  id: 4
+  name: 'p11'
+}
+
+item {
+  id: 5
+  name: 'pl40'
+}
+
+item {
+  id: 6
+  name: 'po'
+}
+
+item {
+  id: 7
+  name: 'pl50'
+}
+
+item {
+  id: 8
+  name: 'pl80'
+}
+
+
+item {
+  id: 9
+  name: 'io'
+}
+
+
+item {
+  id: 10
+  name: 'pl60'
+}
+
+
+item {
+  id: 11
+  name: 'p26'
+}
+
+
+item {
+  id: 12
+  name: 'i4'
+}
+
+
+item {
+  id: 13
+  name: 'pl100'
+}
+
+
+item {
+  id: 14
+  name: 'pl30'
+}
+
+
+item {
+  id: 15
+  name: 'il60'
+}
+
+
+item {
+  id: 16
+  name: 'p15'
+}
+
+
+item {
+  id: 17
+  name: 'i2'
+}
+
+
+item {
+  id: 18
+  name: 'w57'
+}
+
+
+item {
+  id: 19
+  name: 'p5'
+}
+
+
+item {
+  id: 20
+  name: 'p10'
+}
+
+
+item {
+  id: 21
+  name: 'ip'
+}
+
+
+item {
+  id: 22
+  name: 'pl120'
+}
+
+
+item {
+  id: 23
+  name: 'il80'
+}
+
+
+item {
+  id: 24
+  name: 'p23'
+}
+
+
+item {
+  id: 25
+  name: 'pr40'
+}
+
+
+item {
+  id: 26
+  name: 'ph4.5'
+}
+
+
+item {
+  id: 27
+  name: 'w59'
+}
+
+
+item {
+  id: 28
+  name: 'p12'
+}
+
+
+item {
+  id: 29
+  name: 'p3'
+}
+
+
+item {
+  id: 30
+  name: 'w55'
+}
+
+
+item {
+  id: 31
+  name: 'pm20'
+}
+
+
+item {
+  id: 32
+  name: 'pl20'
+}
+
+
+item {
+  id: 33
+  name: 'pg'
+}
+
+
+item {
+  id: 34
+  name: 'pl70'
+}
+
+
+item {
+  id: 35
+  name: 'pm55'
+}
+
+
+item {
+  id: 36
+  name: 'p27'
+}
+
+
+item {
+  id: 37
+  name: 'il100'
+}
+
+
+item {
+  id: 38
+  name: 'w30'
+}
+
+
+item {
+  id: 39
+  name: 'th4'
+}
+
+
+item {
+  id: 40
+  name: 'p19'
+}
+
+
+item {
+  id: 41
+  name: 'pm30'
+}
+
+
+item {
+  id: 42
+  name: 'ph5'
+}
+
+
+item {
+  id: 43
+  name: 'wo'
+}
+
+
+item {
+  id: 44
+  name: 'p6'
+}
+
+
+item {
+  id: 45
+  name: 'w32'
+}
+
+
+item {
+  id: 46
+  name: 'Red'
+}
+
+
+item {
+  id: 47
+  name: 'Yellow'
+}
+
+
+item {
+  id: 48
+  name: 'Green'
+}
+
+
+item {
+  id: 49
+  name: 'off'
+}
